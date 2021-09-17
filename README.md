@@ -1,5 +1,7 @@
 # vuetaba-client
 
+This is a work-in-progress client for the [Vuetaba imageboard server](https://github.com/fobo66/vuetaba). Do not use it please.
+
 ## Project setup
 ```
 yarn install
