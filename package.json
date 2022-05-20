@@ -11,7 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "3.2.34"
+    "vue": "3.2.35"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "5.25.0",
