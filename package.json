@@ -32,6 +32,6 @@
     "vite": "3.0.7",
     "vitest": "0.21.1",
     "vue-eslint-parser": "9.0.3",
-    "vue-tsc": "0.40.0"
+    "vue-tsc": "0.40.1"
   }
 }
