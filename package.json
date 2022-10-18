@@ -17,8 +17,8 @@
     "vue": "3.2.41"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "5.40.0",
-    "@typescript-eslint/parser": "5.40.0",
+    "@typescript-eslint/eslint-plugin": "5.40.1",
+    "@typescript-eslint/parser": "5.40.1",
     "@vitejs/plugin-vue": "3.1.2",
     "autoprefixer": "10.4.12",
     "eslint": "8.25.0",
