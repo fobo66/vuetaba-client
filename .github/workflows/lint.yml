@@ -19,10 +19,5 @@ jobs:
         with:
           node-version: 20
           cache: "npm"
-      - name: Cache
-        uses: actions/cache@v4.0.0
-        with:
-          path: node_modules
-          key: v1
       - run: npm ci
       - run: npm run lint
