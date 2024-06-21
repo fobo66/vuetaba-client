@@ -11,7 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@apollo/client": "3.10.4",
+    "@apollo/client": "3.10.6",
     "graphql": "16.8.2",
     "graphql-tag": "2.12.6",
     "vue": "3.4.27"
